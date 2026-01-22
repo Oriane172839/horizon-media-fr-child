@@ -23,3 +23,9 @@ add_action('wp_enqueue_scripts', function() {
     );
 
 }, 20);
+// Forcer le favicon Google SERP
+add_action('wp_head', function () {
+    ?>
+    <link rel="icon" href="https://www.horizonsmedia.fr/wp-content/uploads/2026/01/faviconh.png" sizes="512x512" type="image/png">
+    <?php
+});
