@@ -1,6 +1,7 @@
 # Horizon — Média indépendant
 
 Horizon est un média indépendant en ligne traitant d’actualité, de société et de sujets de fond avec une approche pédagogique et accessible.
+
 **Live website:** https://horizonmedia.fr
 
 
